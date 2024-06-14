@@ -1,0 +1,63 @@
+body {
+    font-family: Georgia , Times, serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #03010b;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    display: inline-block;
+    color: rgb(234, 241, 243);
+    text-decoration: none;
+    padding-left: 20px;
+    margin-bottom: 10px ;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  .section {
+    background-color: #7ab6b6;
+    text-align: center;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  label, input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #000000;
+  }
+  
